@@ -21,8 +21,8 @@ Before you begin, you need to install the following tools:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/Ifechukwudaniel/Dinamiko.git
-cd Ifechukwudaniel
+git clone https://github.com/JUSTICEESSIELP/hack-height.git
+cd hack-height
 yarn install
 ```
 
